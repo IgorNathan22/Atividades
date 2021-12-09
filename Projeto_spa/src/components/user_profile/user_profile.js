@@ -6,9 +6,9 @@ import { Row, Col, Card } from 'react-materialize';
 import avatar from '../../images/avatar.png';
 
 export const userInfo = {
-  name: 'José Silva',
+  name: 'Igor Nathan',
   description: 'Desenvolvedor Web',
-  age: 19
+  age: 20
 };
 
 const UserProfile = () => (
